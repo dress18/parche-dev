@@ -31,7 +31,10 @@ Sitio publicado: https://dress18.github.io/parche-dev
 
 ## Lo que aprendí
 
-- (Al menos tres aprendizajes de la jornada.)
+- A verificar el seo de la página, a tener una mejor organización y cómo distribuir mejor la información en una página
+
+## Captura de SEO y Accessibility
+![Captura de verificación](./img/capture-ceo-accesibilidad.png)
 
 ## Hecho por
 
